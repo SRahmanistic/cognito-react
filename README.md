@@ -1,5 +1,5 @@
-# cognito-react
+# React Application With AWS Cognito Auth
 Login, Signup, Change Email, Change Password
 
 
-change UserPoolID and ClientId specific to your Use case
+Change UserPoolID and ClientId specific to your application
